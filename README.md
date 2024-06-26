@@ -23,6 +23,5 @@
 <div>
   <a href="https://www.linkedin.com/in/wayslanmiranda/">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LAN-SYSTEM&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
-  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LAN-SYSTEM&layout=compact&langs_count=16&theme=cobalt"/>
 </div>
 
