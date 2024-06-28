@@ -1,5 +1,5 @@
- ### <i><b>Olá, boas vindas ao meu perfil GitHub 👋
- ## WAYSLAN MIRANDA
+ ## <i><b>Olá, boas vindas ao meu perfil GitHub 👋
+ ### Me chamo Wayslan Miranda, Profissional de TI!💻🛜
 
 <div>
   <div style="display: inline_block">
