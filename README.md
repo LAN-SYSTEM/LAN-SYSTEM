@@ -1,6 +1,6 @@
  ## <i><b>Olá, boas vindas ao meu perfil GitHub 👋
  ### Me chamo Wayslan Miranda, Profissional de TI!💻🛜
-
+<br>
 <div>
   <div style="display: inline_block">
   <img align="center" alt="Rafa-Js" height="40" width="40" src="https://img.icons8.com/?size=100&id=12599&format=png&color=000000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
