@@ -1,13 +1,19 @@
-  ## <i><b>Olá, boas vindas ao meu perfil GitHub 👋
-  ### Me chamo Wayslan Miranda, Profissional de TI! </i></b>💻🛜
+<p align="right">
+<img loading="lazy" src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/>
+<img align="center" alt="Rafa-JS" height="60" width="60" src="https://img.icons8.com/?size=100&id=IehwIxC2RfhW&format=png&color=000000"> 
+</p>
+
+## <b> Olá, boas vindas ao meu perfil GitHub👋 </p>
+#  <b> Me chamo Wayslan Miranda, Profissional de TI! 💻🛜 </p>
+
+ ![GitHub Org's stars](https://img.shields.io/github/stars/camilafernanda?style=social) 
 
 <br>
-
- <h3>Ferramenstas e Tecnólogias</h4>
+<h4>Ferramentas e Tecnólogias</h4>
 
 <div>
   <div style="display: inline_block">
-  <img align="center" alt="Rafa-Js" height="40" width="40" src="https://img.icons8.com/?size=100&id=12599&format=png&color=000000"> &nbsp;&nbsp;&nbsp;
+  <img align="center" alt="Rafa-Js" height="40" width="40" src="https://img.icons8.com/?size=100&id=12599&format=png&color=000000"> &nbsp;&nbsp;&nbsp
  <img align="center" alt="Rafa-Ts" height="40" width="40" src="https://img.icons8.com/?size=100&id=KIcFwp9MNQL5&format=png&color=000000"> &nbsp;&nbsp;&nbsp;
   <img align="center" alt="Rafa-React" height="40" width="40" src="https://img.icons8.com/?size=100&id=lvbZNSZTbrbd&format=png&color=000000"> &nbsp;&nbsp;&nbsp;
   <img align="center" alt="Rafa-HTML" height="40" width="40" src="https://img.icons8.com/?size=100&id=bosfpvRzNOG8&format=png&color=000000"> &nbsp;&nbsp;&nbsp;
@@ -33,4 +39,5 @@
   <a href="https://www.linkedin.com/in/wayslanmiranda/">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LAN-SYSTEM&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
 </div>
+
 
