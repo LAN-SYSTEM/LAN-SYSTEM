@@ -1,4 +1,4 @@
- <h1> <b>PORTIFÓLIO</b> <h30>
+ PORTIFÓLIO<big><big><big><big><big><big><big><big><big><big><big><big><big><big><big><big><big><big><big><big><big><big><big><big><big>
  <h1></h1><b>WAYSLAN MIRANDA<br></b><br><h45>
 
 <div>
