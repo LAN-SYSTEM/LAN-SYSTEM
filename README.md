@@ -10,7 +10,7 @@
 <table width="100%">
 <tr><td valign="top" width="50%">
  
-## <b> Olá, boas vindas ao meu perfil GitHub👋 </p>
+## <i><b> Olá, boas vindas ao meu perfil GitHub👋</i> </p>
 #  <b> Me chamo Wayslan Miranda! 💻 </p>
 
 
