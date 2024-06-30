@@ -23,7 +23,7 @@
 
   
 <div align="center"> 
-  <img align="center" alt="Rafa-Js" height="250" width="250" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHNmZDh3cHRwZm16eHJlYmt0YTlnbzAxMjhyeG1rMnlmaHNvYnQzMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/d9RbxjZ8QXesiYoerE/giphy.webp" >
+  <img align="center" alt="Rafa-Js" height="250" width="250" src="https://media.tenor.com/D8IYs3OLCfkAAAAi/soy-nerd.gif" >
 </div>
 
 </td></tr>
