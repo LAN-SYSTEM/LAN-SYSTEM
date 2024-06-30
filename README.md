@@ -9,7 +9,7 @@
  ![GitHub Org's stars](https://img.shields.io/github/stars/camilafernanda?style=social) 
 
 <br>
-<h4>Ferramentas e Tecnólogias</h4>
+<h3>Ferramentas e Tecnólogias</h3>
 
 <div>
   <div style="display: inline_block">
@@ -25,7 +25,7 @@
  
 <br>
 
- <h3>Contatos</h4>
+ <h3>Contatos</h3>
  
 <div>
   <a href="https://www.youtube.com/channel/UC0bmAaUBY1zvJdWPHZ4PGnw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a> 
