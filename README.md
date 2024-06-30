@@ -32,14 +32,14 @@
 
 <div>
   <div style="display: inline_block">
-  <img align="center" alt="Rafa-Js" height="80" width="80" src="https://img.icons8.com/?size=100&id=EGYogqtKuGgD&format=png&color=000000"> &nbsp;&nbsp;&nbsp;
- <img align="center" alt="Rafa-Ts" height="80" width="80" src="https://img.icons8.com/?size=100&id=QEQQKirln6Tf&format=png&color=000000"> &nbsp;&nbsp;&nbsp;
-  <img align="center" alt="Rafa-React" height="80" width="80" src="https://img.icons8.com/?size=100&id=QSjnrUKYMnxO&format=png&color=000000"> &nbsp;&nbsp;&nbsp;
-  <img align="center" alt="Rafa-HTML" height="80" width="80" src="https://img.icons8.com/?size=100&id=bosfpvRzNOG8&format=png&color=000000"> &nbsp;&nbsp;&nbsp;
-  <img align="center" alt="Rafa-CSS" height="80" width="80" src="https://img.icons8.com/?size=100&id=48455&format=png&color=000000"> &nbsp;&nbsp;&nbsp;
-  <img align="center" alt="Rafa-Python" height="80" width="80" src="https://img.icons8.com/?size=100&id=BejoiOeRfYSo&format=png&color=000000"> &nbsp;&nbsp;&nbsp;
-  <img align="center" alt="Rafa-Csharp" height="80" width="80" src="https://img.icons8.com/?size=100&id=7P9Z1Wc1hlGr&format=png&color=000000"> &nbsp;&nbsp;&nbsp;
-  <img align="center" alt="Rafa-Csharp" height="80" width="80" src="https://img.icons8.com/?size=100&id=vR6XrZzQr1CN&format=png&color=000000"> &nbsp;&nbsp;&nbsp;
+  <img align="center" alt="Rafa-Js" height="60" width="60" src="https://img.icons8.com/?size=100&id=EGYogqtKuGgD&format=png&color=000000"> &nbsp;&nbsp;&nbsp;
+ <img align="center" alt="Rafa-Ts" height="60" width="60" src="https://img.icons8.com/?size=100&id=QEQQKirln6Tf&format=png&color=000000"> &nbsp;&nbsp;&nbsp;
+  <img align="center" alt="Rafa-React" height="60" width="60" src="https://img.icons8.com/?size=100&id=QSjnrUKYMnxO&format=png&color=000000"> &nbsp;&nbsp;&nbsp;
+  <img align="center" alt="Rafa-HTML" height="60" width="60" src="https://img.icons8.com/?size=100&id=bosfpvRzNOG8&format=png&color=000000"> &nbsp;&nbsp;&nbsp;
+  <img align="center" alt="Rafa-CSS" height="60" width="60" src="https://img.icons8.com/?size=100&id=48455&format=png&color=000000"> &nbsp;&nbsp;&nbsp;
+  <img align="center" alt="Rafa-Python" height="60" width="60" src="https://img.icons8.com/?size=100&id=BejoiOeRfYSo&format=png&color=000000"> &nbsp;&nbsp;&nbsp;
+  <img align="center" alt="Rafa-Csharp" height="60" width="60" src="https://img.icons8.com/?size=100&id=7P9Z1Wc1hlGr&format=png&color=000000"> &nbsp;&nbsp;&nbsp;
+  <img align="center" alt="Rafa-Csharp" height="60" width="60" src="https://img.icons8.com/?size=100&id=vR6XrZzQr1CN&format=png&color=000000"> &nbsp;&nbsp;&nbsp;
 </div>
   
 <br>
