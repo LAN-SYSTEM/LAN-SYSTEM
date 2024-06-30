@@ -11,7 +11,7 @@
 <tr><td valign="top" width="50%">
  
 ## <b> Olá, boas vindas ao meu perfil GitHub👋 </p>
-#  <b> Me chamo Wayslan Miranda! 💻🛜 </p>
+#  <b> Me chamo Wayslan Miranda! 💻 </p>
 
 
 🎯Sou *Profissional de TI apaixonado por Tecnologia da Informação!* formado pela Faculdade UNICE e com conhecimento na área de *Quality Assurance* e me capacitando para atuar como Analista de Testes.
