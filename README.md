@@ -7,11 +7,35 @@
 </div>
 
 <p align="right">
-<table width="200%">
+<table width="100%">
 <tr><td valign="top" width="50%">
  
 ## <b> Olá, boas vindas ao meu perfil GitHub👋 </p>
-#  <b> Me chamo Wayslan Miranda, Profissional de TI! 💻🛜 </p>
+#  <b> Me chamo Wayslan Miranda! 💻🛜 </p>
+
+
+🎯Sou *Profissional de TI apaixonado por Tecnologia da Informação!* formado pela Faculdade UNICE e com conhecimento na área de *Quality Assurance* e me capacitando para atuar como Analista de Testes.
+
+🎯Meu conjunto de habilidades inclui expertise em garantia da Qualidade, *Gestão de Projetos, Ferramentas de Teste, Automação Web, DevOps e uso de ferramentas como VSCode, Postman, Git, GitHub, Conhecimento no framework Cypress* para automatização de testes, ferramentas Swagger, *Conhecimento em fundamentos de testes de software, MySQL e Microsoft Power Platform*. 
+
+🎯Estou particularmente focado em Testes de Software.
+
+
+  
+<div align="center"> 
+  <img src="https://media.tenor.com/tqoX4Da8YmwAAAAC/doggo-dog.gif" alt="Gif de um cachorrinho de gravata mexendo no computador">
+</div>
+
+</td></tr>
+</table>
+</p>
+
+
+
+
+
+
+
 
  ![GitHub Org's stars](https://img.shields.io/github/stars/camilafernanda?style=social) 
 
