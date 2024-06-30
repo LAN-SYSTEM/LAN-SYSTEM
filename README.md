@@ -23,7 +23,7 @@
 
   
 <div align="center"> 
-  <img src="https://media.tenor.com/tqoX4Da8YmwAAAAC/doggo-dog.gif" alt="Gif de um cachorrinho de gravata mexendo no computador">
+  <img align="center" alt="Rafa-Js" height="250" width="250" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHNmZDh3cHRwZm16eHJlYmt0YTlnbzAxMjhyeG1rMnlmaHNvYnQzMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/d9RbxjZ8QXesiYoerE/giphy.webp" >
 </div>
 
 </td></tr>
