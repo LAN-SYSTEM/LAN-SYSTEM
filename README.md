@@ -25,10 +25,13 @@
 </div>
 
 
-
  ![GitHub Org's stars](https://img.shields.io/github/stars/camilafernanda?style=social) 
+ 
+##
 
-<h3>Ferramentas e Tecnologias</h3>
+<h3>Ferramentas e Tecnologias:</h3>
+
+
 
 <div>
   <div style="display: inline_block">
@@ -44,9 +47,12 @@
   
 <br>
 
-<h3>Contatos</h3>
+##
+
+<h3>Contatos:</h3>
  
 <div>
+    <div align="center"> 
   <a href="https://www.youtube.com/channel/UC0bmAaUBY1zvJdWPHZ4PGnw" target="_blank">
               <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
     
@@ -61,10 +67,15 @@
 </div>
 <br>
 
+##
+
 <div>
-  <a href="https://www.linkedin.com/in/wayslanmiranda/">
+  <a href="https://github.com/LAN-SYSTEM">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LAN-SYSTEM&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LAN-SYSTEM&layout=compact&langs_count=7&theme=cobalt"/>
 </div>
+
+
 
  ![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
 
