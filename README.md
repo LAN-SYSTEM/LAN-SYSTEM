@@ -8,7 +8,6 @@
 
  ![GitHub Org's stars](https://img.shields.io/github/stars/camilafernanda?style=social) 
 
-<br>
 <h3>Ferramentas e Tecnólogias</h3>
 
 <div>
