@@ -1,4 +1,4 @@
-
+    
 <div>
   <p align="right">
   <img loading="lazy" src="http://img.shields.io/static/v1?label=PERFIL&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/>
@@ -7,8 +7,8 @@
 </div>
 
 <p align="right">
-<table width="100%">
-<tr><td valign="top" width="50%">
+<table width="2000%">
+<tr><td valign="top" width="100%">
  
 ## <i><b> Olá, boas vindas ao meu perfil GitHub👋</i> </p>
 #  <b> Me chamo Wayslan Miranda! 💻 </p>
@@ -20,20 +20,9 @@
 
 🎯Estou particularmente focado em Testes de Software.
 
-
-  
 <div align="center"> 
   <img align="center" alt="Rafa-Js" height="250" width="250" src="https://media.tenor.com/D8IYs3OLCfkAAAAi/soy-nerd.gif" >
 </div>
-
-</td></tr>
-</table>
-</p>
-
-
-
-
-
 
 
 
@@ -52,10 +41,10 @@
   <img align="center" alt="Rafa-Csharp" height="40" width="40" src=https://img.icons8.com/?size=100&id=pQiP0C7IB9GU&format=png&color=000000"> &nbsp;&nbsp;&nbsp;
   <img align="right" alt="Rafa-gif" src="https://cdn.discordapp.com/attachments/795358919417397249/825430589581688872/hi.gif"> &nbsp;&nbsp;&nbsp;
 </div>
- 
+  
 <br>
 
- <h3>Contatos</h3>
+<h3>Contatos</h3>
  
 <div>
   <a href="https://www.youtube.com/channel/UC0bmAaUBY1zvJdWPHZ4PGnw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a> 
@@ -72,5 +61,8 @@
 
  ![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
 
+</td></tr>
+</table>
+</p>
 
 
