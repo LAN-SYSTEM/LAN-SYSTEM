@@ -48,6 +48,8 @@
 
 <h3>CERTIFICADOS:</h3>
 
+- Concluiu o treinamento de TQA - <i>Cypress em Andamento</i>
+- Concluiu o treinamento de TQA - <i>DevOps em Andamento</i>
 - Concluiu o treinamento de TQA - Ferramentas de Testes: [Clique aqui :white_check_mark:](https://acrobat.adobe.com/id/urn:aaid:sc:us:f5e35f29-d458-4593-8ff5-7bb3c94277b5)
 - Concluiu o treinamento de TQA - Git Github: [Clique aqui :white_check_mark:](https://acrobat.adobe.com/id/urn:aaid:sc:US:4b725d12-c007-42dd-9f9e-a5fb5247fe70)
 - Concluiu o treinamento de TQA - Teste de API com POSTMAN: [Clique aqui :white_check_mark:](https://acrobat.adobe.com/id/urn:aaid:sc:US:7310c730-bfa4-4891-88f6-16c9ba77be9b)
