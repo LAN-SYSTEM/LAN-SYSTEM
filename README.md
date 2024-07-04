@@ -32,8 +32,6 @@
 
 <h3>FERRAMENTAS E TECNOLOGIAS:</h3>
 
-
-
 <div>
   <div style="display: inline_block">
   <img align="center" alt="Rafa-Js" height="60" width="60" src="https://img.icons8.com/?size=100&id=EGYogqtKuGgD&format=png&color=000000"> &nbsp;&nbsp;&nbsp;
@@ -45,6 +43,10 @@
   <img align="center" alt="Rafa-Ts" height="60" width="60" src="https://img.icons8.com/?size=100&id=7P9Z1Wc1hlGr&format=png&color=000000"> &nbsp;&nbsp;&nbsp;
   <img align="center" alt="Rafa-Ts" height="60" width="60" src="https://img.icons8.com/?size=100&id=vR6XrZzQr1CN&format=png&color=000000"> &nbsp;&nbsp;&nbsp;
 </div>
+
+##
+
+<h3>CERTIFICADOS:</h3>
 
 ##
 
@@ -62,7 +64,7 @@ Conteúdo:</h3> <i> <br> > Nesse espaço estarei direcionando repositórios feit
 
 ##
 
-<h3>Contatos:</h3>
+<h3>CONTATOS:</h3>
  
 <div>
     <div align="center"> 
