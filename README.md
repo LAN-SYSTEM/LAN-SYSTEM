@@ -48,6 +48,8 @@
 
 <h3>CERTIFICADOS:</h3>
 
+- Ferramentas de Testes: [Ferramentas de Testes](https://acrobat.adobe.com/id/urn:aaid:sc:us:f5e35f29-d458-4593-8ff5-7bb3c94277b5)
+
 ##
 
 <h3>HABILIDADE NA PRÁTICA: <i>Momento de colocar em prática o que aprendi.</i></h3>
@@ -56,7 +58,8 @@ Conteúdo:</h3> <i> <br> > Nesse espaço estarei direcionando repositórios feit
 
 - Criando Meu Primeiro Projeto: [Projeto Básico](https://github.com/LAN-SYSTEM/Versionamentodecodigo/blob/main/README.md)
 - Clonando um Repositório para o Desktop: [plataforma-ead-curso-postman](https://github.com/AndreLuizTuf/plataforma-ead-curso-postman.git)
-- Enviando informações do meu Repositório local, para o meu Repositório Remoto : [Local x Remoto](https://github.com/LAN-SYSTEM/aula-github)
+- Enviando informações do meu Repositório local, para o meu Repositório Remoto: [Local x Remoto](https://github.com/LAN-SYSTEM/aula-github)
+
 
 
   
