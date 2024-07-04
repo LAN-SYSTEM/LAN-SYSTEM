@@ -61,7 +61,7 @@
 
 ##
 
-<h3>HABILIDADE NA PRÁTICA: <i>Momento de colocar em prática o que aprendi.</i></h3>
+<h3>HABILIDADE NA PRÁTICA: <i><br>Momento de colocar em prática o que aprendi.</i></h3>
 
 Conteúdo:</h3> <i> <br> Nesse espaço estarei direcionando repositórios feitos por mim.!</h5></i>
 
