@@ -12,7 +12,7 @@
  
 ## <b> Bem-Vindo ao Meu GitHub👋<br><i>
 #Um espaço dedicado a Testes, Projetos e Práticas!</i>
-##  <i> Me chamo Wayslan Miranda! 💻 </i>
+##  <i> Me chamo Wayslan Miranda!  </i>💻
 
 
 🎯Sou *Profissional de TI apaixonado por Tecnologia da Informação!* <br>Formado pela <strong>Faculdade UNICE em Analise de Desenvolvimento de Sistemas, e me Capacitando na Q.a Coders em Quality Assurance</strong>, com a Mentoria do Professor Willian.
