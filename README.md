@@ -55,11 +55,6 @@
 - Concluiu o treinamento de Workshop Academy TQA: [Clique aqui :white_check_mark:](https://acrobat.adobe.com/id/urn:aaid:sc:US:6d00d7d0-aae3-4eb5-935f-2b6f43e1bb9e)
 - Concluiu o treinamento de UDEMY - Testes Automatizados com Cypress - Básico: [Clique aqui :white_check_mark:](https://acrobat.adobe.com/id/urn:aaid:sc:US:a545ab3c-040f-4837-8b4a-725c36d311e5)
 
-
-
-
-
-
 ##
 
 <h3>HABILIDADE NA PRÁTICA: <i>Momento de colocar em prática o que aprendi.</i></h3>
@@ -69,10 +64,7 @@ Conteúdo:</h3> <i> <br> > Nesse espaço estarei direcionando repositórios feit
 - Criando Meu Primeiro Projeto: [Projeto Básico](https://github.com/LAN-SYSTEM/Versionamentodecodigo/blob/main/README.md)
 - Clonando um Repositório para o Desktop: [plataforma-ead-curso-postman](https://github.com/AndreLuizTuf/plataforma-ead-curso-postman.git)
 - Enviando informações do meu Repositório local, para o meu Repositório Remoto: [Local x Remoto](https://github.com/LAN-SYSTEM/aula-github)
-
-
-
-  
+ 
 <br>
 
 ##
@@ -102,8 +94,6 @@ Conteúdo:</h3> <i> <br> > Nesse espaço estarei direcionando repositórios feit
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LAN-SYSTEM&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LAN-SYSTEM&layout=compact&langs_count=7&theme=cobalt"/>
 </div>
-
-
 
  ![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
 
