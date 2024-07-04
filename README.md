@@ -50,7 +50,12 @@
 
 - Concluiu o treinamento de TQA - Ferramentas de Testes: [Clique aqui :white_check_mark:](https://acrobat.adobe.com/id/urn:aaid:sc:us:f5e35f29-d458-4593-8ff5-7bb3c94277b5)
 - Concluiu o treinamento de TQA - Git Github: [Clique aqui :white_check_mark:](https://acrobat.adobe.com/id/urn:aaid:sc:US:4b725d12-c007-42dd-9f9e-a5fb5247fe70)
-- Concluiu o treinamento de TQA - Teste de API com POSTMAN,: [Clique aqui :white_check_mark:](https://acrobat.adobe.com/id/urn:aaid:sc:US:7310c730-bfa4-4891-88f6-16c9ba77be9b)
+- Concluiu o treinamento de TQA - Teste de API com POSTMAN: [Clique aqui :white_check_mark:](https://acrobat.adobe.com/id/urn:aaid:sc:US:7310c730-bfa4-4891-88f6-16c9ba77be9b)
+- Concluiu o treinamento de TQA - Quality Assurance: [Clique aqui :white_check_mark:](https://acrobat.adobe.com/id/urn:aaid:sc:US:248f6ab6-5087-4929-94b8-fe9a25cd3481)
+- Concluiu o treinamento de TQA - Teste de API com POSTMAN: [Clique aqui :white_check_mark:](https://acrobat.adobe.com/id/urn:aaid:sc:US:6d00d7d0-aae3-4eb5-935f-2b6f43e1bb9e)
+- Concluiu o treinamento de TQA - Teste de API com POSTMAN: [Clique aqui :white_check_mark:]()
+
+
 
 
 
