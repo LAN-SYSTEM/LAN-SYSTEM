@@ -51,7 +51,7 @@
 
 Conteúdo:</h3> <i> <br> > Nesse espaço estarei direcionando repositórios clonados e salvos localmente usando o Terminal GitBash.!</h5></i>
 
-- Criando Meu Primeiro Projeto: [>>](https://github.com/LAN-SYSTEM/Versionamentodecodigo/blob/main/README.md)
+- Criando Meu Primeiro Projeto: [Projeto Básico](https://github.com/LAN-SYSTEM/Versionamentodecodigo/blob/main/README.md)
 - Clonando um Repositório: [plataforma-ead-curso-postman](https://github.com/AndreLuizTuf/plataforma-ead-curso-postman.git)
 
   
