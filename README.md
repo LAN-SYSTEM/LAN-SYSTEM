@@ -53,7 +53,7 @@ Conteúdo:</h3> <i> <br> > Nesse espaço estarei direcionando repositórios clon
 
 - Criando Meu Primeiro Projeto: [Projeto Básico](https://github.com/LAN-SYSTEM/Versionamentodecodigo/blob/main/README.md)
 - Clonando um Repositório para o Desktop: [plataforma-ead-curso-postman](https://github.com/AndreLuizTuf/plataforma-ead-curso-postman.git)
-- Enviando informações do meu Repositório local, para o meu Repositório Remoto : [Local x Remoto](https://github.com/LAN-SYSTEM/Versionamentodecodigo/blob/main/README.md)
+- Enviando informações do meu Repositório local, para o meu Repositório Remoto : [Local x Remoto](https://github.com/LAN-SYSTEM/aula-github)
 
 
   
