@@ -10,13 +10,13 @@
 <table width="2000%">
 <tr><td valign="top" width="100%">
  
-## <i><b> Olá, boas vindas ao meu perfil GitHub👋</i> </p>
-#  <b> Me chamo Wayslan Miranda! 💻 </p>
+## <b> Olá, boas vindas ao meu perfil GitHub👋 </p>
+##  <i><b> Me chamo Wayslan Miranda! 💻 </p></i>
 
 
-🎯Sou *Profissional de TI apaixonado por Tecnologia da Informação!* formado pela Faculdade UNICE e com conhecimento na área de *Quality Assurance* e me capacitando para atuar como Analista de Testes.
+🎯Sou *Profissional de TI apaixonado por Tecnologia da Informação!* formado pela Faculdade UNICE e me Capacitando na *Q.a Coders* em *Quality Assurance*, com a *Mentoria do Professor Willian*.
 
-🎯Meu conjunto de habilidades inclui expertise em garantia da Qualidade, *Gestão de Projetos, Ferramentas de Teste, Automação Web, DevOps e uso de ferramentas como VSCode, Postman, Git, GitHub, Conhecimento no framework Cypress* para automatização de testes, ferramentas Swagger, *Conhecimento em fundamentos de testes de software, MySQL e Microsoft Power Platform*. 
+🎯Meu conjunto de habilidades inclui a garantia da Qualidade, *Gestão de Projetos, Ferramentas de Teste, Automação Web, DevOps e uso de ferramentas como VSCode, Postman, Git, GitHub, Conhecimento no framework Cypress* para automatização de testes, ferramentas Swagger, *Conhecimento em fundamentos de testes de software, MySQL e Microsoft Power Platform*. 
 
 🎯Estou particularmente focado em Testes de Software.
 
@@ -29,7 +29,7 @@
  
 ##
 
-<h3>Ferramentas e Tecnologias:</h3>
+<h3>FERRAMENTAS E TECNOLOGIAS:</h3>
 
 
 
@@ -44,6 +44,13 @@
   <img align="center" alt="Rafa-Ts" height="60" width="60" src="https://img.icons8.com/?size=100&id=7P9Z1Wc1hlGr&format=png&color=000000"> &nbsp;&nbsp;&nbsp;
   <img align="center" alt="Rafa-Ts" height="60" width="60" src="https://img.icons8.com/?size=100&id=vR6XrZzQr1CN&format=png&color=000000"> &nbsp;&nbsp;&nbsp;
 </div>
+
+##
+
+<h3>HABILIDADE NA PRÁTICA: <i>Momento de colocar em prática o que aprendi.</i></h3>
+
+Conteúdo:</h3> <i> <br> > Nesse espaco estarei direcionado repositórios clonados e salvos localmente.!</h5></i>
+
   
 <br>
 
