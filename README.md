@@ -14,7 +14,7 @@
 ##  <i><b> Me chamo Wayslan Miranda! 💻 </p></i>
 
 
-🎯Sou *Profissional de TI apaixonado por Tecnologia da Informação!* formado pela <strong>Faculdade UNICE em Analise de Desenvolvimento em Sistemas, e me Capacitando na Q.a Coders em Quality Assurance</strong>, com a Mentoria do Professor Willian.
+🎯Sou *Profissional de TI apaixonado por Tecnologia da Informação!* <br>Formado pela <strong>Faculdade UNICE em Analise de Desenvolvimento em Sistemas, e me Capacitando na Q.a Coders em Quality Assurance</strong>, com a Mentoria do Professor Willian.
 
 🎯Meu conjunto de habilidades inclui a garantia da Qualidade, *Gestão de Projetos, Ferramentas de Teste, Automação Web, DevOps e uso de ferramentas como VSCode, Postman, Git, GitHub, Conhecimento no framework Cypress* para automatização de testes, ferramentas Swagger, *Conhecimento em fundamentos de testes de software, MySQL e Microsoft Power Platform*. 
 
