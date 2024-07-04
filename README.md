@@ -65,9 +65,9 @@
 
 Conteúdo:</h3> <i> <br> Nesse espaço estarei direcionando repositórios feitos por mim.!</h5></i>
 
-- Criando Meu Primeiro Projeto: [Projeto Básico](https://github.com/LAN-SYSTEM/Versionamentodecodigo/blob/main/README.md)
-- Clonando um Repositório para o Desktop: [plataforma-ead-curso-postman](https://github.com/AndreLuizTuf/plataforma-ead-curso-postman.git)
-- Enviando informações do meu Repositório local, para o meu Repositório Remoto: [Local x Remoto](https://github.com/LAN-SYSTEM/aula-github)
+- Criando Meu Primeiro Projeto: [Clique aqui :white_check_mark:](https://github.com/LAN-SYSTEM/Versionamentodecodigo/blob/main/README.md)
+- Clonando um Repositório para o Desktop: [Clique aqui :white_check_mark:](https://github.com/AndreLuizTuf/plataforma-ead-curso-postman.git)
+- Enviando informações do meu Repositório local, para o meu Repositório Remoto: [Clique aqui :white_check_mark:](https://github.com/LAN-SYSTEM/aula-github)
  
 <br>
 
