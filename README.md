@@ -52,7 +52,7 @@
 - Concluiu o treinamento de TQA - Git Github: [Clique aqui :white_check_mark:](https://acrobat.adobe.com/id/urn:aaid:sc:US:4b725d12-c007-42dd-9f9e-a5fb5247fe70)
 - Concluiu o treinamento de TQA - Teste de API com POSTMAN: [Clique aqui :white_check_mark:](https://acrobat.adobe.com/id/urn:aaid:sc:US:7310c730-bfa4-4891-88f6-16c9ba77be9b)
 - Concluiu o treinamento de TQA - Quality Assurance: [Clique aqui :white_check_mark:](https://acrobat.adobe.com/id/urn:aaid:sc:US:248f6ab6-5087-4929-94b8-fe9a25cd3481)
-- Concluiu o treinamento de Workshop Academy TQA: [Clique aqui :white_check_mark:](https://acrobat.adobe.com/id/urn:aaid:sc:US:6d00d7d0-aae3-4eb5-935f-2b6f43e1bb9e)
+- Concluiu o treinamento de TQA - Workshop Academy: [Clique aqui :white_check_mark:](https://acrobat.adobe.com/id/urn:aaid:sc:US:6d00d7d0-aae3-4eb5-935f-2b6f43e1bb9e)
 - Concluiu o treinamento de UDEMY - Testes Automatizados com Cypress - Básico: [Clique aqui :white_check_mark:](https://acrobat.adobe.com/id/urn:aaid:sc:US:a545ab3c-040f-4837-8b4a-725c36d311e5)
 
 ##
