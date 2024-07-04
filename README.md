@@ -54,6 +54,10 @@
 - Concluiu o treinamento de TQA - Quality Assurance: [Clique aqui :white_check_mark:](https://acrobat.adobe.com/id/urn:aaid:sc:US:248f6ab6-5087-4929-94b8-fe9a25cd3481)
 - Concluiu o treinamento de TQA - Workshop Academy: [Clique aqui :white_check_mark:](https://acrobat.adobe.com/id/urn:aaid:sc:US:6d00d7d0-aae3-4eb5-935f-2b6f43e1bb9e)
 - Concluiu o treinamento de UDEMY - Testes Automatizados com Cypress - Básico: [Clique aqui :white_check_mark:](https://acrobat.adobe.com/id/urn:aaid:sc:US:a545ab3c-040f-4837-8b4a-725c36d311e5)
+- Fundação Bradesco | Escola Virtual - Introdução à Programação Orientada a Objeto (POO): [Clique aqui :white_check_mark:](https://lms.ev.org.br/mpls/Web/Lms/Student/PrintCertificateContent.aspx?zpJdkmwrUpwCJmpzPxYDt5dAcdyi0bL5)
+- Concluiu o treinamento de UDEMY - Testes Automatizados com Cypress - Básico: [Clique aqui :white_check_mark:]()
+
+
 
 ##
 
