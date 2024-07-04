@@ -51,6 +51,8 @@
 
 Conteúdo:</h3> <i> <br> > Nesse espaço estarei direcionando repositórios clonados e salvos localmente usando o Terminal GitBash.!</h5></i>
 
+- Clonando um Repositório: [plataforma-ead-curso-postman](https://github.com/AndreLuizTuf/plataforma-ead-curso-postman.git)
+
   
 <br>
 
