@@ -1,7 +1,7 @@
     
 <div>
   <p align="center">
-  <img loading="lazy" src="http://img.shields.io/static/v1?label=PERFIL&message=EM%20DESENVOLVIMENTO/Under%20development&color=GREEN&style=for-the-badge"/>
+  <img loading="lazy" src="http://img.shields.io/static/v1?label=PERFIL&message=EM%20DESENVOLVIMENTO/Under%20development&color=blue&style=for-the-badge"/>
   <img align="center" alt="Rafa-JS" height="65" width="65" src="https://img.icons8.com/?size=100&id=qtMT3dhCq72r&format=png&color=000000"> 
 </p>
 </div>
