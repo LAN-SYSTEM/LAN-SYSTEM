@@ -49,7 +49,7 @@
 
 <h3>HABILIDADE NA PRÁTICA: <i>Momento de colocar em prática o que aprendi.</i></h3>
 
-Conteúdo:</h3> <i> <br> > Nesse espaco estarei direcionado repositórios clonados e salvos localmente.!</h5></i>
+Conteúdo:</h3> <i> <br> > Nesse espaco estarei direcionado repositórios clonados e salvos localmente usando o Terminal GitBash.!</h5></i>
 
   
 <br>
