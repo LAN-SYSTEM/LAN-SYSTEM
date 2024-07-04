@@ -2,7 +2,7 @@
 <div>
   <p align="right">
   <img loading="lazy" src="http://img.shields.io/static/v1?label=PERFIL&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/>
-  <img align="center" alt="Rafa-JS" height="50" width="50" src="https://img.icons8.com/?size=100&id=IehwIxC2RfhW&format=png&color=000000"> 
+  <img align="center" alt="Rafa-JS" height="65" width="65" src="https://img.icons8.com/?size=100&id=qtMT3dhCq72r&format=png&color=000000"> 
 </p>
 </div>
 
