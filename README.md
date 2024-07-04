@@ -10,8 +10,9 @@
 <table width="2000%">
 <tr><td valign="top" width="100%">
  
-## <b> Olá, boas vindas ao meu perfil GitHub👋 </p>
-##  <i><b> Me chamo Wayslan Miranda! 💻 </p></i>
+## <b> Bem-Vindo ao Meu GitHub👋<br><i>
+#Um espaço dedicado a Testes, Projetos e Práticas!</i>
+##  <i> Me chamo Wayslan Miranda! 💻 </i>
 
 
 🎯Sou *Profissional de TI apaixonado por Tecnologia da Informação!* <br>Formado pela <strong>Faculdade UNICE em Analise de Desenvolvimento de Sistemas, e me Capacitando na Q.a Coders em Quality Assurance</strong>, com a Mentoria do Professor Willian.
