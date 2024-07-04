@@ -53,17 +53,17 @@
 - Concluiu o treinamento de TQA - Teste de API com POSTMAN: [Clique aqui :white_check_mark:](https://acrobat.adobe.com/id/urn:aaid:sc:US:7310c730-bfa4-4891-88f6-16c9ba77be9b)
 - Concluiu o treinamento de TQA - Quality Assurance: [Clique aqui :white_check_mark:](https://acrobat.adobe.com/id/urn:aaid:sc:US:248f6ab6-5087-4929-94b8-fe9a25cd3481)
 - Concluiu o treinamento de TQA - Workshop Academy: [Clique aqui :white_check_mark:](https://acrobat.adobe.com/id/urn:aaid:sc:US:6d00d7d0-aae3-4eb5-935f-2b6f43e1bb9e)
-- Concluiu o treinamento de UDEMY - Testes Automatizados com Cypress - Básico: [Clique aqui :white_check_mark:](https://acrobat.adobe.com/id/urn:aaid:sc:US:a545ab3c-040f-4837-8b4a-725c36d311e5)
+- Concluiu o treinamento na UDEMY - Testes Automatizados com Cypress - Básico: [Clique aqui :white_check_mark:](https://acrobat.adobe.com/id/urn:aaid:sc:US:a545ab3c-040f-4837-8b4a-725c36d311e5)
 - Fundação Bradesco | Escola Virtual - Introdução à Programação Orientada a Objeto (POO): [Clique aqui :white_check_mark:](https://lms.ev.org.br/mpls/Web/Lms/Student/PrintCertificateContent.aspx?zpJdkmwrUpwCJmpzPxYDt5dAcdyi0bL5)
 - Fundação Bradesco | Escola Virtual - Administrando Banco De Dados: [Clique aqui :white_check_mark:](https://lms.ev.org.br/mpls/Web/Lms/Student/PrintCertificateContent.aspx?zpJdkmwrUpzhS0nEiEhU3jzEWbLtEQcs)
-
+- Concluiu o treinamento na 4All Testes - Aprendendo a Testar: [Clique aqui :white_check_mark:](https://acrobat.adobe.com/id/urn:aaid:sc:US:d9a4da7a-a5c8-48c6-a8ea-cecd2515f0ca)
 
 
 ##
 
 <h3>HABILIDADE NA PRÁTICA: <i>Momento de colocar em prática o que aprendi.</i></h3>
 
-Conteúdo:</h3> <i> <br> > Nesse espaço estarei direcionando repositórios feitos por mim.!</h5></i>
+Conteúdo:</h3> <i> <br> Nesse espaço estarei direcionando repositórios feitos por mim.!</h5></i>
 
 - Criando Meu Primeiro Projeto: [Projeto Básico](https://github.com/LAN-SYSTEM/Versionamentodecodigo/blob/main/README.md)
 - Clonando um Repositório para o Desktop: [plataforma-ead-curso-postman](https://github.com/AndreLuizTuf/plataforma-ead-curso-postman.git)
