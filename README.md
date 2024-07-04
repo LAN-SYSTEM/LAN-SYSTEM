@@ -48,7 +48,7 @@
 
 <h3>CERTIFICADOS:</h3>
 
-- Ferramentas de Testes: [Ferramentas de Testes](https://acrobat.adobe.com/id/urn:aaid:sc:us:f5e35f29-d458-4593-8ff5-7bb3c94277b5)
+- Ferramentas de Testes: [✅](https://acrobat.adobe.com/id/urn:aaid:sc:us:f5e35f29-d458-4593-8ff5-7bb3c94277b5)
 
 ##
 
