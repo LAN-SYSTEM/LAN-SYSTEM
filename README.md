@@ -48,7 +48,7 @@
 
 <h3>CERTIFICADOS:</h3>
 
-- Concluiu o treinamento de TQA - <i>Cypress em Andamento</i>
+- Concluiu o treinamento de TQA - <i>Cypress em Andamento </i>
 - Concluiu o treinamento de TQA - SQL SERVER: [Clique aqui :white_check_mark:](https://acrobat.adobe.com/id/urn:aaid:sc:US:4e2df5ea-4c5a-43cf-8a10-849f07fcdab9)
 - Concluiu o treinamento de TQA - DevOps: [Clique aqui :white_check_mark:](https://github.com/LAN-SYSTEM/LAN-SYSTEM/assets/153374411/e3b11cf0-13ac-499c-95d7-d6250b8286cf)
 - Concluiu o treinamento de TQA - Ferramentas de Testes: [Clique aqui :white_check_mark:](https://acrobat.adobe.com/id/urn:aaid:sc:us:f5e35f29-d458-4593-8ff5-7bb3c94277b5)
