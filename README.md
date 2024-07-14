@@ -49,6 +49,7 @@
 <h3>CERTIFICADOS:</h3>
 
 - Concluiu o treinamento de TQA - Cypress - Automação WEB [Clique aqui :white_check_mark:](https://acrobat.adobe.com/id/urn:aaid:sc:US:24222ed0-9ba9-4f48-9c77-d48865ed7587)
+- - Concluiu o treinamento de TQA - Fundamentos em Redes - IBSEC [Clique aqui :white_check_mark:](https://certs.ibsec.com.br/?cert_hash=45a6ee40101d04f4)
 - Concluiu o treinamento de TQA - SQL SERVER: [Clique aqui :white_check_mark:](https://acrobat.adobe.com/id/urn:aaid:sc:US:4e2df5ea-4c5a-43cf-8a10-849f07fcdab9)
 - Concluiu o treinamento de TQA - DevOps: [Clique aqui :white_check_mark:](https://github.com/LAN-SYSTEM/LAN-SYSTEM/assets/153374411/e3b11cf0-13ac-499c-95d7-d6250b8286cf)
 - Concluiu o treinamento de TQA - Ferramentas de Testes: [Clique aqui :white_check_mark:](https://acrobat.adobe.com/id/urn:aaid:sc:us:f5e35f29-d458-4593-8ff5-7bb3c94277b5)
