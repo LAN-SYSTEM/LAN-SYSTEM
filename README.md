@@ -42,6 +42,10 @@
   <img align="center" alt="Rafa-Ts" height="60" width="60" src="https://img.icons8.com/?size=100&id=BejoiOeRfYSo&format=png&color=000000"> &nbsp;&nbsp;&nbsp;
   <img align="center" alt="Rafa-Ts" height="60" width="60" src="https://img.icons8.com/?size=100&id=7P9Z1Wc1hlGr&format=png&color=000000"> &nbsp;&nbsp;&nbsp;
   <img align="center" alt="Rafa-Ts" height="60" width="60" src="https://img.icons8.com/?size=100&id=vR6XrZzQr1CN&format=png&color=000000"> &nbsp;&nbsp;&nbsp;
+  <img align="center" alt="Rafa-Ts" height="60" width="60" src="https://img.icons8.com/?size=100&id=8XCBDUzPTo10&format=png&color=000000"> &nbsp;&nbsp;&nbsp;
+  <img align="center" alt="Rafa-Ts" height="60" width="60" src="https://img.icons8.com/?size=100&id=VLKafOkk3sBX&format=png&color=000000"> &nbsp;&nbsp;&nbsp;
+
+
 </div>
 
 ##
