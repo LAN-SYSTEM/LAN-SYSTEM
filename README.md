@@ -52,19 +52,19 @@
 
 <h3>CERTIFICADOS:</h3>
 
-- Concluiu o treinamento - JIRA PROJECT MANAGEMENT / Great Learning: [Clique aqui :white_check_mark:](https://olympus.mygreatlearning.com/courses/67214/certificate)
-- Concluiu o treinamento - Certificação em Scrum Foundation Professional Certificate SFPC / CertiProf® [Clique aqui :white_check_mark:](https://acrobat.adobe.com/id/urn:aaid:sc:US:86e26f02-0ee5-400f-a02d-58b6cb80094a)
-- Concluiu o treinamento - Certificação em Network Fundamentals / IBSEC [Clique aqui :white_check_mark:](https://certs.ibsec.com.br/?cert_hash=45a6ee40101d04f4)
-- Concluiu o treinamento - Cypress - Automação WEB: / Qa. Coders[Clique aqui :white_check_mark:](https://acrobat.adobe.com/id/urn:aaid:sc:US:24222ed0-9ba9-4f48-9c77-d48865ed7587)
-- Concluiu o treinamento - SQL SERVER / Qa. Coders: [Clique aqui :white_check_mark:](https://acrobat.adobe.com/id/urn:aaid:sc:US:4e2df5ea-4c5a-43cf-8a10-849f07fcdab9)
-- Concluiu o treinamento - DevOps / Qa. Coders: [Clique aqui :white_check_mark:](https://github.com/LAN-SYSTEM/LAN-SYSTEM/assets/153374411/e3b11cf0-13ac-499c-95d7-d6250b8286cf)
-- Concluiu o treinamento - Ferramentas de Testes / Qa. Coders: [Clique aqui :white_check_mark:](https://acrobat.adobe.com/id/urn:aaid:sc:us:f5e35f29-d458-4593-8ff5-7bb3c94277b5)
-- Concluiu o treinamento - Git Github / Qa. Coders: [Clique aqui :white_check_mark:](https://acrobat.adobe.com/id/urn:aaid:sc:US:4b725d12-c007-42dd-9f9e-a5fb5247fe70)
-- Concluiu o treinamento - Teste de API com POSTMAN / Qa. Coder: [Clique aqui :white_check_mark:](https://acrobat.adobe.com/id/urn:aaid:sc:US:7310c730-bfa4-4891-88f6-16c9ba77be9b)
-- Concluiu o treinamento - Quality Assurance / Qa. Coders: [Clique aqui :white_check_mark:](https://acrobat.adobe.com/id/urn:aaid:sc:US:248f6ab6-5087-4929-94b8-fe9a25cd3481)
-- Concluiu o treinamento - Workshop Academy / Qa. Coders: [Clique aqui :white_check_mark:](https://acrobat.adobe.com/id/urn:aaid:sc:US:6d00d7d0-aae3-4eb5-935f-2b6f43e1bb9e)
-- Concluiu o treinamento - Testes Automatizados com Cypress - Básico / UDEMY: [Clique aqui :white_check_mark:](https://acrobat.adobe.com/id/urn:aaid:sc:US:a545ab3c-040f-4837-8b4a-725c36d311e5)
-- Concluiu o treinamento - Introdução à Programação Orientada a Objeto (POO) / Fundação Bradesco | Escola Virtual: [Clique aqui :white_check_mark:](https://lms.ev.org.br/mpls/Web/Lms/Student/PrintCertificateContent.aspx?zpJdkmwrUpwCJmpzPxYDt5dAcdyi0bL5)
+- JIRA PROJECT MANAGEMENT / Great Learning: [Clique aqui :white_check_mark:](https://olympus.mygreatlearning.com/courses/67214/certificate)
+- Certificação em Scrum Foundation Professional Certificate SFPC / CertiProf® [Clique aqui :white_check_mark:](https://acrobat.adobe.com/id/urn:aaid:sc:US:86e26f02-0ee5-400f-a02d-58b6cb80094a)
+- Certificação em Network Fundamentals / IBSEC [Clique aqui :white_check_mark:](https://certs.ibsec.com.br/?cert_hash=45a6ee40101d04f4)
+- Cypress - Automação WEB: / Qa. Coders[Clique aqui :white_check_mark:](https://acrobat.adobe.com/id/urn:aaid:sc:US:24222ed0-9ba9-4f48-9c77-d48865ed7587)
+- SQL SERVER / Qa. Coders: [Clique aqui :white_check_mark:](https://acrobat.adobe.com/id/urn:aaid:sc:US:4e2df5ea-4c5a-43cf-8a10-849f07fcdab9)
+- DevOps / Qa. Coders: [Clique aqui :white_check_mark:](https://github.com/LAN-SYSTEM/LAN-SYSTEM/assets/153374411/e3b11cf0-13ac-499c-95d7-d6250b8286cf)
+- Ferramentas de Testes / Qa. Coders: [Clique aqui :white_check_mark:](https://acrobat.adobe.com/id/urn:aaid:sc:us:f5e35f29-d458-4593-8ff5-7bb3c94277b5)
+- Git Github / Qa. Coders: [Clique aqui :white_check_mark:](https://acrobat.adobe.com/id/urn:aaid:sc:US:4b725d12-c007-42dd-9f9e-a5fb5247fe70)
+- Teste de API com POSTMAN / Qa. Coder: [Clique aqui :white_check_mark:](https://acrobat.adobe.com/id/urn:aaid:sc:US:7310c730-bfa4-4891-88f6-16c9ba77be9b)
+- Quality Assurance / Qa. Coders: [Clique aqui :white_check_mark:](https://acrobat.adobe.com/id/urn:aaid:sc:US:248f6ab6-5087-4929-94b8-fe9a25cd3481)
+- Workshop Academy / Qa. Coders: [Clique aqui :white_check_mark:](https://acrobat.adobe.com/id/urn:aaid:sc:US:6d00d7d0-aae3-4eb5-935f-2b6f43e1bb9e)
+- Testes Automatizados com Cypress - Básico / UDEMY: [Clique aqui :white_check_mark:](https://acrobat.adobe.com/id/urn:aaid:sc:US:a545ab3c-040f-4837-8b4a-725c36d311e5)
+- Introdução à Programação Orientada a Objeto (POO) / Fundação Bradesco | Escola Virtual: [Clique aqui :white_check_mark:](https://lms.ev.org.br/mpls/Web/Lms/Student/PrintCertificateContent.aspx?zpJdkmwrUpwCJmpzPxYDt5dAcdyi0bL5)
 - Concluiu o treinamento - Administrando Banco De Dados  / Fundação Bradesco | Escola Virtual: [Clique aqui :white_check_mark:](https://lms.ev.org.br/mpls/Web/Lms/Student/PrintCertificateContent.aspx?zpJdkmwrUpzhS0nEiEhU3jzEWbLtEQcs)
 - Concluiu o treinamento - Aprendendo a Testar  / 4All Testes: [Clique aqui :white_check_mark:](https://acrobat.adobe.com/id/urn:aaid:sc:US:d9a4da7a-a5c8-48c6-a8ea-cecd2515f0ca)
 
@@ -75,14 +75,22 @@
 
 Conteúdo:</h3> <i> <br> Nesse espaço estarei direcionando repositórios feitos por mim.!</h5></i>
 
+Repositórios:
 - Criando Meu Primeiro Projeto: [Clique aqui :white_check_mark:](https://github.com/LAN-SYSTEM/Versionamentodecodigo/blob/main/README.md)
 - Clonando um Repositório para o Desktop: [Clique aqui :white_check_mark:](https://github.com/AndreLuizTuf/plataforma-ead-curso-postman.git)
 - Enviando informações do meu Repositório local, para o meu Repositório Remoto: [Clique aqui :white_check_mark:](https://github.com/LAN-SYSTEM/aula-github)
+
+Testes de Software:<br>
+<i>Criando planos de teste com a linguagem BDD. Regras de Negócio que desenvolvi.</i>
+
+
+
+
+
+
  
-<br>
-
-##
-
+<br><br><br><br><br>
+<br><br><br><br><br>
 <h3>CONTATOS:</h3>
  
 <div>
