@@ -81,7 +81,9 @@ Repositórios:
 - Enviando informações do meu Repositório local, para o meu Repositório Remoto: [Clique aqui :white_check_mark:](https://github.com/LAN-SYSTEM/aula-github)
 
 Cenários de Testes:
-- CT001-CENARIO DE TESTE - Qa. Coders: [Clique aqui :white_check_mark:](https://acrobat.adobe.com/id/urn:aaid:sc:US:6a050289-15be-42e4-a615-4a3d2fa263aa)
+- CT001-CT.LOGIN - Qa. Coders: [Clique aqui :white_check_mark:](https://acrobat.adobe.com/id/urn:aaid:sc:US:6a050289-15be-42e4-a615-4a3d2fa263aa)
+- CT001-CT.LOGIN - Sistema NwayPro: [Clique aqui :white_check_mark:](https://acrobat.adobe.com/id/urn:aaid:sc:US:38871908-6098-4d96-b78f-4d3c344486ae)
+
 
 
 
