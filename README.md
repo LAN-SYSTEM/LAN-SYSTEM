@@ -80,8 +80,8 @@ Repositórios:
 - Clonando um Repositório para o Desktop: [Clique aqui :white_check_mark:](https://github.com/AndreLuizTuf/plataforma-ead-curso-postman.git)
 - Enviando informações do meu Repositório local, para o meu Repositório Remoto: [Clique aqui :white_check_mark:](https://github.com/LAN-SYSTEM/aula-github)
 
-Testes de Software:<br>
-<i>Criando planos de teste com a linguagem BDD. Regras de Negócio que desenvolvi.</i>
+Cenários de Testes:
+- CT001-CENARIO DE TESTE - Qa. Coders: [Clique aqui :white_check_mark:](https://acrobat.adobe.com/id/urn:aaid:sc:US:6a050289-15be-42e4-a615-4a3d2fa263aa)
 
 
 
