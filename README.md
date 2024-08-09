@@ -85,7 +85,6 @@ Cenários de Testes:
 - CT002-CT.LOGIN - Sistema NwayPro: [Clique aqui :white_check_mark:](https://acrobat.adobe.com/id/urn:aaid:sc:US:38871908-6098-4d96-b78f-4d3c344486ae)
  
 <br><br><br><br><br>
-<br><br><br><br><br>
 <h3>CONTATOS:</h3>
  
 <div>
