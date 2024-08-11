@@ -73,17 +73,25 @@
 
 <h3>HABILIDADE NA PRÁTICA: <i><br>Momento de colocar em prática o que aprendi.</i></h3>
 
-Conteúdo:</h3> <i> <br> Nesse espaço estarei direcionando repositórios feitos por mim.!</h5></i>
+CONTEÚDO:</h3> <i> <br> Nesse espaço estarei direcionando repositórios feitos por mim.!</h5></i>
 
-Repositórios:
+1. Repositórios:
 - Criando Meu Primeiro Projeto: [Clique aqui :white_check_mark:](https://github.com/LAN-SYSTEM/Versionamentodecodigo/blob/main/README.md)
 - Clonando um Repositório para o Desktop: [Clique aqui :white_check_mark:](https://github.com/AndreLuizTuf/plataforma-ead-curso-postman.git)
 - Enviando informações do meu Repositório local, para o meu Repositório Remoto: [Clique aqui :white_check_mark:](https://github.com/LAN-SYSTEM/aula-github)
+<br>
 
-Cenários de Testes:
+2. Cenários de Testes:
 - CT001-CT.LOGIN - Qa. Coders: [Clique aqui :white_check_mark:](https://acrobat.adobe.com/id/urn:aaid:sc:US:6a050289-15be-42e4-a615-4a3d2fa263aa)
 - CT002-CT.LOGIN - Sistema NwayPro: [Clique aqui :white_check_mark:](https://acrobat.adobe.com/id/urn:aaid:sc:US:38871908-6098-4d96-b78f-4d3c344486ae)
- 
+<br>
+
+3. Postman:
+- Primeiro passos: [Clique aqui :white_check_mark:](https://documenter.getpostman.com/view/31435995/2sA3s3JBtt)
+- Instalação, Comandos básicos, como criar uma coleção, como adcionar uma requisição, método HTTP,
+- Como criar a documentação da API e publicar essa documentação.
+<br>
+
 <br><br><br><br><br>
 <h3>CONTATOS:</h3>
  
