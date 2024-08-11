@@ -90,6 +90,7 @@ CONTEÚDO:</h3> <i> <br> Nesse espaço estarei direcionando repositórios feitos
 - Primeiro passos: [Clique aqui :white_check_mark:](https://documenter.getpostman.com/view/31435995/2sA3s3JBtt)
 - Instalação, Comandos básicos, como criar uma coleção, como adcionar uma requisição, método HTTP,
 - Como criar a documentação da API e publicar essa documentação.
+- Teste após a documentação pronta.
 <br>
 
 <br><br><br><br><br>
