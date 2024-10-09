@@ -10,8 +10,8 @@
 <table width="2000%">
 <tr><td valign="top" width="100%">
  
-## <b> Bem-Vindo ao Meu GitHub👋<br><i>
-#Um espaço dedicado a Testes, Projetos e Práticas!</i>
+## <b> Seja Bem-Vindo👋<br><i>
+#Um espaço dedicado a Projetos!</i>
 ##  <i> Me chamo Wayslan Miranda!  </i>💻
 
 
